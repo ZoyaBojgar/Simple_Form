@@ -1,0 +1,1 @@
+✨ Simple & Responsive HTML Form – A clean and user-friendly form template built with HTML and CSS. Designed with proper labels, placeholders, and basic validation for a smooth user experience. Fully responsive, making it perfect for learning form structure, experimenting with UI design, or integrating into larger web projects.
